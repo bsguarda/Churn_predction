@@ -1,4 +1,4 @@
-# Churn_predction
+# Churn_prediction
 
 Churn é uma métrica que indica a taxa de cancelamento de clientes, ou seja, o quanto de clientes a empresa perde e consequentemente o quanto perdeu em receita.
 
